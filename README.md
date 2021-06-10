@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 from maxgio92
+
+- 🌱 I’m currently learning ...
 
 <!--
 **maxgio92/maxgio92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
