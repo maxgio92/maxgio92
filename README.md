@@ -1,21 +1,10 @@
-<!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxgio92.visitor-badge)](https://github.com/maxgio92) -->
-<img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=maxgio92.visitor-badge" />
-
 <h2 align="center">Welcome to my profile! :-) </h2>
 <h4 align="center">Want to share ideas, collaborate, connect? <a href="https://github.com/maxgio92/maxgio92/discussions/1">Jump here!</a></h4>
 
 # About me
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=maxgio92&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
-
-<p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=maxgio92&include_all_commits=true&hide_border=true&theme=dark"/>
-</p>
-
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxgio92&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark">
 </p>
 
 # Metrics
@@ -32,14 +21,6 @@
 </p>
 
 > Daily views on repositories.
-
-# Code
-
-<p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/maxgio92/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-</p>
-
-> Lines of code (yearly)
 
 # Contributions
 
