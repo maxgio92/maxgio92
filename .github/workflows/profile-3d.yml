@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@main
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+      - uses: yoshi389111/github-profile-3d-contrib@b909a5f446fbec2b597177e8abc089975b79b0e6 # main
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
