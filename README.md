@@ -1,8 +1,6 @@
 <!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxgio92.visitor-badge)](https://github.com/maxgio92) -->
 <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=maxgio92.visitor-badge" />
 
-<span style="font-family:'Hack Nerd Font'">
-
 <h2 align="center">Welcome to my profile! :-) </h2>
 <h4 align="center">Want to share ideas, collaborate, connect? <a href="https://github.com/maxgio92/maxgio92/discussions/1">Jump here!</a></h4>
 
@@ -62,4 +60,3 @@
 </p>
 
 > Ordered by number of commits.
-</span>
